@@ -83,7 +83,7 @@ a{
     position: absolute;
     width: 135px;
     height: 16px;
-    left: 800px;
+    left: 1080px;
     top: 32px;
     font-family: 'Roboto';
     font-style: normal;
@@ -97,7 +97,7 @@ a{
     position: absolute;
     width: 118px;
     height: 16px;
-    left: 1000px;
+    left: 1300px;
     top: 32px;
     font-family: 'Roboto';
     font-style: normal;
@@ -120,7 +120,7 @@ position: absolute;
 width: 696px;
 height: 120px;
 left: 448px;
-top: 280px;
+top: 180px;
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 900;
@@ -142,7 +142,7 @@ color: #FFFFFF;
     width: 261px;
     height: 50px;
     left: 666px;
-    top: 430px;
+    top: 350px;
     background: #2196F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
@@ -562,7 +562,70 @@ color: #212121;
     text-align: center;
     letter-spacing: 0.03em;
     color: #757575;
-
-    
-
+}
+.fondo {
+    position: absolute;
+width: 1600px;
+height: 252px;
+left: 0px;
+top: 2158px;
+background: #2F303A;
+}
+.ppstudio{
+    position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 50px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    color: #2196F3; 
+}
+.direccion {
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 90px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+    letter-spacing: 0.03em;
+    color: #FFFFFF; 
+}
+.email{
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 140px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+.celular {
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 170px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
 }
